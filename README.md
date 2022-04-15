@@ -1,16 +1,11 @@
 # movie_app
 
-A new Flutter project.
+A Simple Flutter Movie Review app with free IMDB API Using Cubit.
 
-## Getting Started
+with Simple UI Kit from Figma Community (https://www.figma.com/file/qbpUU8yZBOMaCkTKbDAI0m/Movie-Streaming-App-Community)
 
-This project is a starting point for a Flutter application.
+Hope You Like It.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![movie_app](https://user-images.githubusercontent.com/54157473/163497311-995b52b5-c8b0-4f35-8895-08a32f1c23c0.gif)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
