@@ -29,7 +29,7 @@ class BlurryContainer extends StatelessWidget {
           height: height,
           decoration: BoxDecoration(
             borderRadius: borderRadius,
-            color: Colors.white.withOpacity(.12),
+            color: Colors.orange.withOpacity(.18),
           ),
           child: child,
         ),

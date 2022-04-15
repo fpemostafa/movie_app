@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:movie_app/business_logic/cubit/movie_cubit.dart';
 import 'package:movie_app/constats/constants.dart';
-
 import 'package:simple_gradient_text/simple_gradient_text.dart';
 
 import '../../widgets/blurry_container.dart';
@@ -35,7 +34,6 @@ class HomePage extends StatelessWidget {
                   if (state is MovieLoadedState) {
                     return TrendingPoster(movieList: (state).movies);
                   }
-          
                   return const Center(child: CircularProgressIndicator());
                 },
               ),
@@ -45,6 +43,8 @@ class HomePage extends StatelessWidget {
         ),
       ),
       bottomNavigationBar: BottomNavigationBar(
+        showSelectedLabels: false,
+        showUnselectedLabels: false,
         items: [
           BottomNavigationBarItem(
             icon: Image.asset('assets/images/Home.png'),
