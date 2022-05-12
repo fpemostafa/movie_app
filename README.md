@@ -6,6 +6,6 @@ with Simple UI Kit from Figma Community (https://www.figma.com/file/qbpUU8yZBOMa
 
 Hope You Like It.
 
+ <img src="https://user-images.githubusercontent.com/54157473/163497311-995b52b5-c8b0-4f35-8895-08a32f1c23c0.gif" alt="Preview Gif" width="350px">
 
-![movie_app](https://user-images.githubusercontent.com/54157473/163497311-995b52b5-c8b0-4f35-8895-08a32f1c23c0.gif)
 
